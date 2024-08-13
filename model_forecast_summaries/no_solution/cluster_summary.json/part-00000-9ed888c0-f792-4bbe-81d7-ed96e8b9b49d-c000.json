@@ -1,0 +1,3 @@
+{"cluster_num":1,"count":1122648,"speeders_count":1629,"mean_vel":42.76796477381977,"mean_time":7.157367941986096,"stddev_vel":5.294755003546727,"stddev_time":0.9832331079692638,"min_vel":26.72919,"max_vel":149.58858,"min_time":1.655668,"max_time":12.395318}
+{"cluster_num":2,"count":488707,"speeders_count":108292,"mean_vel":64.22670426580335,"mean_time":4.768671068323175,"stddev_vel":9.087443611897154,"stddev_time":0.620649056653229,"min_vel":43.324833,"max_vel":167.5166,"min_time":1.3780104,"max_time":7.614857}
+{"cluster_num":0,"count":858318,"speeders_count":11,"mean_vel":23.68358610347649,"mean_time":14.159094889422317,"stddev_vel":7.591938963143793,"stddev_time":5.567997678032365,"min_vel":0.020588567,"max_vel":77.2971,"min_time":3.8863332,"max_time":158.45732}
